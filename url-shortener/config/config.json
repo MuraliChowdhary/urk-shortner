@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "myuser",         
+    "password": "Murali@666",   
+    "database": "url_shortener", 
+    "host": "localhost",        
+    "dialect": "postgres"       
+  },
+  "test": {
+    "username": "myuser",
+    "password": "Murali@666",
+    "database": "url_shortener_test",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "myuser",
+    "password": "Murali@666",
+    "database": "url_shortener_production",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
